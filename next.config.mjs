@@ -2,7 +2,7 @@
 const nextConfig = {
 	images: {
 		remotePatterns: [
-			{ hostname: "hidden-spoonbill-882.convex.cloud" },
+			{ hostname: "valiant-greyhound-626.convex.cloud" },
 			{ hostname: "oaidalleapiprodscus.blob.core.windows.net" },
 		],
 	},
